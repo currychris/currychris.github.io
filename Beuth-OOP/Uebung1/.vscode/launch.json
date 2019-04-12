@@ -1,5 +1,14 @@
 {
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "app.App",
+            "projectName": "Uebung1"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - App",
